@@ -1,0 +1,15 @@
+/*
+
+!.gitignore
+
+!public
+!src
+
+!.editorconfig
+!.huskyrc
+!.lintstagedrc
+!.prettierrc
+
+!README.md
+!package.json
+!tsconfig.json
